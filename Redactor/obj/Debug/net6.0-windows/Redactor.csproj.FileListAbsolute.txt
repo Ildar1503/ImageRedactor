@@ -1,0 +1,17 @@
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Курсач по C#\Redactor\Redactor\bin\Debug\net6.0-windows\Redactor.exe
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Курсач по C#\Redactor\Redactor\bin\Debug\net6.0-windows\Redactor.deps.json
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Курсач по C#\Redactor\Redactor\bin\Debug\net6.0-windows\Redactor.runtimeconfig.json
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Курсач по C#\Redactor\Redactor\bin\Debug\net6.0-windows\Redactor.dll
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Курсач по C#\Redactor\Redactor\bin\Debug\net6.0-windows\Redactor.pdb
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Курсач по C#\Redactor\Redactor\obj\Debug\net6.0-windows\Redactor.csproj.AssemblyReference.cache
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Курсач по C#\Redactor\Redactor\obj\Debug\net6.0-windows\Redactor.Form1.resources
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Курсач по C#\Redactor\Redactor\obj\Debug\net6.0-windows\Redactor.csproj.GenerateResource.cache
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Курсач по C#\Redactor\Redactor\obj\Debug\net6.0-windows\Redactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Курсач по C#\Redactor\Redactor\obj\Debug\net6.0-windows\Redactor.AssemblyInfoInputs.cache
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Курсач по C#\Redactor\Redactor\obj\Debug\net6.0-windows\Redactor.AssemblyInfo.cs
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Курсач по C#\Redactor\Redactor\obj\Debug\net6.0-windows\Redactor.csproj.CoreCompileInputs.cache
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Курсач по C#\Redactor\Redactor\obj\Debug\net6.0-windows\Redactor.dll
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Курсач по C#\Redactor\Redactor\obj\Debug\net6.0-windows\refint\Redactor.dll
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Курсач по C#\Redactor\Redactor\obj\Debug\net6.0-windows\Redactor.pdb
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Курсач по C#\Redactor\Redactor\obj\Debug\net6.0-windows\Redactor.genruntimeconfig.cache
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Курсач по C#\Redactor\Redactor\obj\Debug\net6.0-windows\ref\Redactor.dll
